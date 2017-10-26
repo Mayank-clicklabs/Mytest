@@ -48,6 +48,6 @@ achievements:
 Language:
 ["Hindi","English"],
 }
-//console.log(resume);
-console.log(resume.qualifications.Secondary["Percentage/CGPA"]);
+console.log(resume);
+//console.log(resume.qualifications.Secondary["Percentage/CGPA"]);
 																	  
